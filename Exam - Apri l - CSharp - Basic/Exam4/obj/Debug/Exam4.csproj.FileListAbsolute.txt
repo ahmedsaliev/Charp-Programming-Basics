@@ -1,0 +1,7 @@
+C:\Users\Есма\source\repos\ExaminationApril\Exam4\bin\Debug\Exam4.exe.config
+C:\Users\Есма\source\repos\ExaminationApril\Exam4\bin\Debug\Exam4.exe
+C:\Users\Есма\source\repos\ExaminationApril\Exam4\bin\Debug\Exam4.pdb
+C:\Users\Есма\source\repos\ExaminationApril\Exam4\obj\Debug\Exam4.csprojResolveAssemblyReference.cache
+C:\Users\Есма\source\repos\ExaminationApril\Exam4\obj\Debug\Exam4.csproj.CoreCompileInputs.cache
+C:\Users\Есма\source\repos\ExaminationApril\Exam4\obj\Debug\Exam4.exe
+C:\Users\Есма\source\repos\ExaminationApril\Exam4\obj\Debug\Exam4.pdb

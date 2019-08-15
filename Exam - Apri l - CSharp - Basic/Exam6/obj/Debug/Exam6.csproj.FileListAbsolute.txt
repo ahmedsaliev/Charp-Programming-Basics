@@ -1,0 +1,7 @@
+C:\Users\Есма\source\repos\ExaminationApril\Exam6\bin\Debug\Exam6.exe.config
+C:\Users\Есма\source\repos\ExaminationApril\Exam6\bin\Debug\Exam6.exe
+C:\Users\Есма\source\repos\ExaminationApril\Exam6\bin\Debug\Exam6.pdb
+C:\Users\Есма\source\repos\ExaminationApril\Exam6\obj\Debug\Exam6.csprojResolveAssemblyReference.cache
+C:\Users\Есма\source\repos\ExaminationApril\Exam6\obj\Debug\Exam6.csproj.CoreCompileInputs.cache
+C:\Users\Есма\source\repos\ExaminationApril\Exam6\obj\Debug\Exam6.exe
+C:\Users\Есма\source\repos\ExaminationApril\Exam6\obj\Debug\Exam6.pdb
